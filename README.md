@@ -10,6 +10,9 @@ Compiled by [Babel](https://babeljs.io/)<br/>
 Bundled by [Webpack](https://webpack.js.org/)<br/>
 Hosted by [Firebase](https://firebase.google.com/)<br/>
 Version control by Github<br/>
+<br/>
+This project resulted from inspirational work conducted during my [meal-nutrition-calculator](https://github.com/boshimoto/meal-nutrition-calculator)<br/>
+Bodyboon is a food management platform that records nutrient intake, tracks a diets progress, and improves meal planning.<br/>
 
 
 <br/><br/>

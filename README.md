@@ -3,6 +3,7 @@
 
 ### I'm currently developing [www.bodyboon.com](https://bodyboon.com) ♥
 
+Bodyboon will be a food management platform that records nutrient intake, tracks a diets progress, and improves meal planning.<br/>
 A single page app, built using [Web Components](https://developer.mozilla.org/en-US/docs/Web/API/Web_components)<br/>
 Powered by [Lit](https://lit.dev/)<br/>
 Developed with [Express](https://expressjs.com/)<br/>
@@ -11,9 +12,7 @@ Bundled by [Webpack](https://webpack.js.org/)<br/>
 Hosted by [Firebase](https://firebase.google.com/)<br/>
 Version control by Github<br/>
 <br/>
-This project resulted from inspirational work conducted during my [meal-nutrition-calculator](https://github.com/boshimoto/meal-nutrition-calculator)<br/>
-Bodyboon is a food management platform that records nutrient intake, tracks a diets progress, and improves meal planning.<br/>
-
+This project is inspirational work which resulted from my [meal-nutrition-calculator](https://github.com/boshimoto/meal-nutrition-calculator)<br/>
 
 <br/><br/>
 

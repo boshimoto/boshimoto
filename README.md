@@ -13,6 +13,7 @@ Hosted by [Firebase](https://firebase.google.com/)<br/>
 Version control by Github<br/>
 <br/>
 This project is inspirational work which resulted from my [meal-nutrition-calculator](https://github.com/boshimoto/meal-nutrition-calculator)<br/>
+I am fulltime on this<br/>
 
 <br/><br/>
 

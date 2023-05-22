@@ -3,13 +3,13 @@
 
 ### I'm currently developing [www.bodyboon.com](https://bodyboon.com) ♥
 
-A single page app, built using [Web Components](https://developer.mozilla.org/en-US/docs/Web/API/Web_components). A web standard component model, allowing for encapsulation and interoperability of individual HTML elements, usable with any JavaScript library or framework.<br/>
-Powered by [Lit](https://lit.dev/). A front-end framework that provides APIs to simplify common Web Components tasks like managing properties, attributes, and rendering.<br/>
-Developed with [Express](https://expressjs.com/). A minimal and flexible [Node.js](https://nodejs.org/en/about) web application framework.<br/>
-Compiled by [Babel](https://babeljs.io/).<br/>
-Bundled by [Webpack](https://webpack.js.org/).<br/>
-Hosted by [Firebase](https://firebase.google.com/).<br/>
-Version control by Github.<br/>
+A single page app, built using [Web Components](https://developer.mozilla.org/en-US/docs/Web/API/Web_components)<br/>
+Powered by [Lit](https://lit.dev/)<br/>
+Developed with [Express](https://expressjs.com/)<br/>
+Compiled by [Babel](https://babeljs.io/)<br/>
+Bundled by [Webpack](https://webpack.js.org/)<br/>
+Hosted by [Firebase](https://firebase.google.com/)<br/>
+Version control by Github<br/>
 
 
 <br/><br/>

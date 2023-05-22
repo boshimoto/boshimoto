@@ -9,6 +9,7 @@ Developed with [Express](https://expressjs.com/). A minimal and flexible [Node.j
 Compiled by [Babel](https://babeljs.io/).<br/>
 Bundled by [Webpack](https://webpack.js.org/).<br/>
 Hosted by [Firebase](https://firebase.google.com/).<br/>
+Version control by Github.<br/>
 
 
 <br/><br/>

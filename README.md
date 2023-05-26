@@ -3,6 +3,8 @@
 
 ### I'm currently developing [www.bodyboon.com](https://bodyboon.com) ♥
 
+Bodyboon is the all-in-one dieting solution and food management platform that analyzes your meal plan, records nutrient intake and communicates the benefits.<br/>
+
 A single page app, built using [Web Components](https://developer.mozilla.org/en-US/docs/Web/API/Web_components)<br/>
 Powered by [Lit](https://lit.dev/)<br/>
 Developed with [Express](https://expressjs.com/)<br/>

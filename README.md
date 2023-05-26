@@ -16,7 +16,7 @@ Version control by Github<br/>
 This project was inspired by my [meal-nutrition-calculator](https://github.com/boshimoto/meal-nutrition-calculator)<br/>
 <br/>
 For a fun exercise, checkout how the site scores on [Google PageSpeed](https://pagespeed.web.dev/analysis/https-bodyboon-com/qj5rcb2vbn?form_factor=mobile)<br/>
-**HINT: 100% Performance — 100% Accessibility — 100% Best Practices — 100% SEO**
+**HINT:** *100% Performance — 100% Accessibility — 100% Best Practices — 100% SEO*
 
 <br/><br/>
 

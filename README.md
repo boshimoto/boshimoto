@@ -1,7 +1,7 @@
 ### Hello and Welcome,
 <br/>
 
-### I'm currently developing [www.bodyboon.com](https://bodyboon.com) ♥
+### I'm actively involved in the development of [www.bodyboon.com](https://bodyboon.com) ♥
 
 Bodyboon is the comprehensive meal planning software that analyzes your diet, tracks nutrient intake, and communicates the advantages in one convenient platform.<br/>
 
@@ -13,9 +13,7 @@ Bundled by [Webpack](https://webpack.js.org/)<br/>
 Hosted by [Firebase](https://firebase.google.com/)<br/>
 Version control by Github<br/>
 <br/>
-This project draws inspiration from my [meal-nutrition-calculator](https://github.com/boshimoto/meal-nutrition-calculator)<br/>
-<br/>
-And achieves excellent scores on [Google PageSpeed](https://pagespeed.web.dev/analysis/https-bodyboon-com/rl3kt1djfw?form_factor=mobile)<br/>
+This project draws inspiration from my [meal-nutrition-calculator](https://github.com/boshimoto/meal-nutrition-calculator) and achieves excellent scores on [Google PageSpeed](https://pagespeed.web.dev/analysis/https-bodyboon-com/rl3kt1djfw?form_factor=mobile)<br/>
 *100% Performance — 100% Accessibility — 100% Best Practices — 100% SEO*
 
 <br/><br/>

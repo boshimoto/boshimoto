@@ -3,7 +3,7 @@
 
 ### I'm actively involved in the development of [www.bodyboon.com](https://bodyboon.com) ♥
 
-Bodyboon is the comprehensive meal planning software that analyzes your diet, tracks nutrient intake, and communicates the advantages in one convenient platform.<br/>
+Bodyboon is the all-in-one meal planning software that analyzes your diet, records nutrient intake, and communicates the unique benefits.<br/>
 
 A single page responsive app, built using [Web Components](https://developer.mozilla.org/en-US/docs/Web/API/Web_components)<br/>
 Powered by [Lit](https://lit.dev/)<br/>

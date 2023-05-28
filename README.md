@@ -7,7 +7,7 @@ Bodyboon is the all-in-one meal planning software that analyzes your diet, recor
 
 A single page responsive app, built using [Web Components](https://developer.mozilla.org/en-US/docs/Web/API/Web_components)<br/>
 Powered by [Lit](https://lit.dev/)<br/>
-Developed with [Express](https://expressjs.com/)<br/>
+Developed with [Express](https://expressjs.com/) + [Node](https://nodejs.org/en)<br/>
 Compiled by [Babel](https://babeljs.io/)<br/>
 Bundled by [Webpack](https://webpack.js.org/)<br/>
 Hosted by [Firebase](https://firebase.google.com/)<br/>

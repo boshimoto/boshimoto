@@ -5,7 +5,7 @@
 
 Bodyboon is the all-in-one meal planning software that analyzes your diet, records nutrient intake, and communicates the unique benefits.<br/>
 
-As a solo developer I manage the entire Front-end, Back-end, Dev-Ops, Website, UX/UI, & IT/Provisioning. As well as overseeing finances, marketing, copyright, vision, and growth of the project.<br/>
+As a solo developer I manage the entire Front-end, Back-end, Dev-Ops, UX/UI, & IT/Provisioning. As well as overseeing finances, marketing, copyright, vision, and growth of the project.<br/>
 
 [Bodyboon](https://bodyboon.com) is a single page responsive app, built using [Web Components](https://developer.mozilla.org/en-US/docs/Web/API/Web_components)<br/>
 Powered by [Lit](https://lit.dev/)<br/>
